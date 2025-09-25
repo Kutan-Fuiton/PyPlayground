@@ -28,10 +28,10 @@ Here's a list of the projects you'll find here. They are roughly ordered from si
         ```
     *   **Option 2 (Simple):** Click the green "Code" button and download the ZIP file. Extract it anywhere you like.
 3.  **Run a Project:**
-    *   Navigate into a project folder (e.g., `cd projects/01_number_guesser`).
+    *   Navigate into a project folder (e.g., `cd Projects/Calculator_CLI`).
     *   Run the Python script from your terminal/command prompt:
         ```bash
-        python number_guesser.py
+        python Calculator_CLI.py
         ```
 
 ## 🤝 How to Contribute
