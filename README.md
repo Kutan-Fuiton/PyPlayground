@@ -43,10 +43,6 @@ Found a bug? Have a fantastic idea for a new fun project? Contributions are welc
 4.  Push to the branch (`git push origin feature/AmazingProject`).
 5.  Open a Pull Request.
 
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use the code for your own learning!
-
 ## 🎉 Have Fun!
 
 Remember, the goal here is to have fun while learning. Don't be afraid to open the code, tinker with it, break it, and fix it again. That's the best way to learn!
